@@ -1,1 +1,3 @@
-red
+Red.
+Orange.
+Yellow is the third color of the rainbow.
